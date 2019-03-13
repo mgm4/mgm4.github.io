@@ -5,3 +5,5 @@
 {% include css/screen.css %}
 {% include css/layout.css %}
 {% include css/syntax.css %}
+
+{% include css/bg_image_local.css %}
