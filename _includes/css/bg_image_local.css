@@ -1,0 +1,17 @@
+/* Backgroud image */
+#bg {
+  background-image: url("images/body.jpg");
+  background-color: #050a10;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
